@@ -3,7 +3,7 @@ body {
   align-items: center;
   justify-content: center;
   height:100vh;
-  background: linear-gradient(to bottom, rgb(158, 214, 241), rgb(229, 176, 185));
+  background: linear-gradient(to bottom,rgb(158, 214, 241), rgb(229, 176, 185));
 }
 .birthdayCard {
   position: relative;
